@@ -1,3 +1,10 @@
+**Remaining tasks**
+
+- Add more tests for controller and services
+- Add custom validator for BusyFlightsRequest departureDate & returnDate
+- Refactor DataRetrieverTasks and mappings
+- Add custom errors handling for more clear messages
+
 **Travix - Problem to be solved**
 
 **Background:**
