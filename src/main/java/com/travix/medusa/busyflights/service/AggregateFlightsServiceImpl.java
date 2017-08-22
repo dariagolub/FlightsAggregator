@@ -18,6 +18,8 @@ import java.util.concurrent.Future;
 
 /**
  * Created by daryagolub on 22/08/17.
+ *
+ * Executes tasks for fetching data from suppliers in parallel and aggregate received data
  */
 
 @Service

@@ -16,6 +16,8 @@ import java.util.List;
 
 /**
  * Created by daryagolub on 22/08/17.
+ *
+ * Provides api with mock data of suppliers
  */
 
 @RestController

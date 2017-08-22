@@ -16,6 +16,10 @@ import java.util.stream.Collectors;
 
 /**
  * Created by daryagolub on 22/08/17.
+ *
+ * 1. Converts request to suppliers format
+ * 2. Make request to supplier
+ * 3. Converts response to application format
  */
 
 public class ToughJetDataRetrieverTask implements SupplierDataRetriever {
